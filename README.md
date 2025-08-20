@@ -4,8 +4,10 @@
 
 
 <div align="center">    
+  
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)  
 ![Platform](https://img.shields.io/badge/Platform-nRF%20%7C%20STM32-lightgrey.svg)
+
 <div>  
   
 ---
