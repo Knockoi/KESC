@@ -25,17 +25,6 @@ Whether you need flagship-level performance or a lightweight entry model, KESC d
 
 ---
 
-## Technical Specifications
-
-| Model | Tier | Voltage Range | Max Current | Name |
-|-------|------|---------------|-------------|------|
-| **ALPHA**  | Flagship   | 100V | 300A | **A100300** |
-| **BETA**   | High-end   | 75V  | 300A | **B75300** |
-| **GAMMA**  | Mid-tier   | 60V  | 120A | **G60120** |
-| **DELTA**  | Entry-level| 60V  | 80A  | **D6080** |
-
----
-
 ## Features
 
 - High-efficiency power management  
