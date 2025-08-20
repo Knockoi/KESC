@@ -33,10 +33,4 @@ Whether you need flagship-level performance or a lightweight entry model, KESC d
 - Compact and robust form factor  
 - Open-source friendly  
 
----
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Knockoi/KESC.git
