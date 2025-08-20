@@ -1,6 +1,7 @@
-<div align="center">  
+
+
 # KESC
-<div>
+
 
 <div align="center">    
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)  
