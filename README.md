@@ -12,6 +12,15 @@
   
 ---
 
+## Progress:  
+Preliminary layout of the power board completed.
+The system board design is pending finalization of the power board layout.
+
+  
+
+---
+
+
 ## Introduction
 
 **KESC** is a high-performance ESC series based on VESC, designed for compact size and exceptional power.  
