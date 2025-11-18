@@ -9,6 +9,12 @@
 ![Platform](https://img.shields.io/badge/Platform-nRF%20%7C%20STM32-lightgrey.svg)
 
 </div>  
+
+---  
+## New Update !!  
+![image]([picture or gif url](https://github.com/Knockoi/KESC/image/))  
+
+
   
 ---
 
